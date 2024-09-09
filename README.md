@@ -1,9 +1,12 @@
-# Simple-Interest-Calculator
+# Simple Interest Calculator
 
-simple-interest-calculator/
-│
-├── LICENSE
-├── README.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-└── simple-interest.sh
+A simple interest calculator implemented in Bash.
+
+## Features
+- Calculate simple interest based on user input.
+- Easy to use and modify.
+
+## Usage
+Run the script in a terminal:
+```bash
+./simple-interest.sh
